@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "kuai": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快资源"
+    }
   }
 }
